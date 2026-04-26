@@ -4,7 +4,7 @@ A static React frontend for a Supabase-backed visitor register. It is designed f
 
 ## Purpose
 
-This project helps replace a paper or spreadsheet visitor log with a browser-based check-in and check-out flow. It is intended for companies that already have, or are willing to build, the required Supabase database, Auth, Storage, RPC functions, and security policies.
+This project helps replace a paper or spreadsheet visitor log with a browser-based check-in and check-out flow. It is intended for companies that are willing to build, the required Supabase database, Auth, Storage, RPC functions, and security policies.
 
 ## What it does
 
