@@ -159,4 +159,4 @@ SQL files, if present, are examples and must be reviewed before production use.
 
 ## License
 
-This project does not yet include a license. Add a license before publishing it for public reuse.
+WTFPL - Do What The Fuck You Want To Public License.
