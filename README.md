@@ -35,7 +35,6 @@ This project helps replace a paper or spreadsheet visitor log with a browser-bas
 - No production credentials.
 - No visitor data, signatures, screenshots with data, CSV exports, database dumps, or backups.
 - No complete production security review.
-- No license file yet.
 
 ## How it works
 
